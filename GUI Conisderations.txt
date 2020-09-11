@@ -1,0 +1,4 @@
+Color readability
+Consistency
+Helpful Error providing
+Not considerting virtual agents that can by annoying to certain people
